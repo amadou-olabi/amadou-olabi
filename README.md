@@ -45,8 +45,9 @@ I am a dynamic IT professional and passionate technologist with 7+ years of expe
 ## 📬 Get in Touch  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amadoufopa/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amadoufopa/)  
 - 🐦 [Twitter](https://x.com/AmadouOlabi)  
-- 📖 [theenthusiast.dev](https://theenthusiast.dev)  
+- 📖 [theenthusiast.dev](https://app.squirrelscan.com/fopayuffon)  
 - 💻 [GitHub](https://github.com/amadou-olabi)  
 
 ---
