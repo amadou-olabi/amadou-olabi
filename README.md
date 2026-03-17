@@ -1,56 +1,54 @@
-# Hi, I'm **amadou-olabi** ! 👋
+# Hi, I'm **Fopa Yuffon Amadou Olabi** 👋  
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a dynamic IT professional and passionate technologist with 7+ years of experience in **IT Infrastructure Management, Systems Administration, and Cloud Migration**. Currently leading IT Infrastructure & Systems Administration at **Union Bank of Cameroon Plc**, I specialize in designing secure, scalable enterprise systems and driving digital transformation in the financial sector. Alongside my technical career, I love writing and sharing insights with the global tech community.  
 
-![amadou-olabi's Stats](https://github-readme-stats.vercel.app/api?username=amadou-olabi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Amadou's Stats](https://github-readme-stats.vercel.app/api?username=amadou-olabi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+## 🚀 About Me  
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🏦 Lead, IT Infrastructure & Systems Administration at **Union Bank of Cameroon Plc**  
+- 🌐 Experienced in **Core Banking Migration**, **Swift Alliance Cloud Migration**, and **Microsoft 365 Cloud Migration**  
+- 🔒 Skilled in **IT Governance, Security Frameworks, SIEM, NAC, and Disaster Recovery**  
+- 📝 Tech writer with published articles on [freeCodeCamp](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/) and [Hackernoon](https://hackernoon.com/)  
+- 🎓 MSc in Technical Education (Computer Science) from **Islamic University of Technology, Bangladesh**  
+- 💡 Founder & CTO of **StarTech Robotics Inc.**, empowering students with STEM and robotics education  
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🏆 Key Achievements  
 
-## 🌱 Currently Exploring
+- ⚡ **Core Banking Migration**: Transitioned Union Bank’s system from Finacle to Amplitude Up → **20% faster transactions, 15% lower costs**  
+- 🌍 **Swift Alliance Cloud Migration**: Enhanced international payment security by **30%**, reduced processing time by **25%**  
+- 🔐 **ELK SIEM & FortiNAC Deployment**: Reduced security breaches by **80%**, improved incident response by **30%**  
+- 📈 **Orange Cameroun**: Developed a sales lead system → **30% boost in performance, 15% revenue growth**  
+- 🎓 Mentored students in robotics & programming at **IUT Robotics Society**, increasing STEM competition participation by **25%**  
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+---
 
- ## 🏆 Achievements
+## 💻 Tech Stack  
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,aws,azure,linux,django,postgresql,react,redux,tailwind)](https://skillicons.dev)  
 
+---
 
-## 📬 Get in Touch
+## 🌱 Currently Exploring  
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 🚀 Advanced **Full Stack Web Development** with React, Redux, and Django  
+- 🛡️ **Cloud Security & Compliance** (ISO 27001, PCI DSS, ISO 8583)  
+- 📊 **Data-Driven Systems** with AI, ML, and Big Data frameworks  
+- 🔄 **DevOps & Automation** for scalable enterprise deployments  
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
+## 📬 Get in Touch  
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/amadoufopa/)  
+- 🐦 [Twitter](https://x.com/AmadouOlabi)  
+- 📖 [theenthusiast.dev](https://theenthusiast.dev)  
+- 💻 [GitHub](https://github.com/amadou-olabi)  
 
-<!--
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Let’s connect and build secure, scalable, and innovative technology solutions together. 🚀  
